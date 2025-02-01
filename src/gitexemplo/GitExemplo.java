@@ -4,10 +4,12 @@
  */
 package gitexemplo;
 
-/**
- *
- * @author Isabela
- */
+public class gitexemplo {
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
+}
+              
 public class GitExemplo {
 
     /**
